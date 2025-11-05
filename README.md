@@ -3,9 +3,6 @@ Sample Java SpringBoot web app used to demo CI/CD using Azure DevOps and deployi
 [![Build status](https://dev.azure.com/romeshdharamgudi/java-springboot/_build)]
 (https://dev.azure.com/romeshdharamgudi/java-springboot/_build/results?buildId=39&view=results)
 
-CI/CD pipelines on Azure DevOps:
-https://dev.azure.com/romeshdharamgudi/java-springboot
-
 
 # Create a new project in Azure DevOps and select the appropriate repository type.
 
